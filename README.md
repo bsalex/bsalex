@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Oleksandr
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning wordpress, podman, objective c
-- 💞️ I’m looking to collaborate on everything
 - 📫 How to reach me:
   - StackOverflow - https://stackoverflow.com/users/2887022/bsalex
   - Twitter - https://twitter.com/bsalexmail
