@@ -1,5 +1,4 @@
-- 👋 Hi, I’m Oleksandr
-- 👀 I’m interested in programming
+- 👋 Hi, I’m Alex
 
 <!---
 bsalex/bsalex is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
